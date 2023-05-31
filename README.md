@@ -1,5 +1,5 @@
-# SaWSD
-Structure-aware Weakly Supervised Shadow Detection
+# BSASD
+Boosting Sparsely Annotated Shadow Detection
 
 WSDNet mainly includes: (1) two scribble datasets: S-SBU and S-ISTD, and (2) model code. 
 
