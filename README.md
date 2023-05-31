@@ -1,8 +1,9 @@
 # BSASD
 Boosting Sparsely Annotated Shadow Detection
+by Kai Zhou, Yan-Li Shao, Jing-Long Fang, Dan Wei, and Wan-Lu Sun
 
-WSDNet mainly includes: (1) two scribble datasets: S-SBU and S-ISTD, and (2) model code. 
-
-(1) S-SBU at https://pan.baidu.com/s/1lVBklVzL7M8_oHYs8wMwrQ?pwd=tez7 and S-ISTD at https://pan.baidu.com/s/1OaTH6jfD7dhSCr0R1wnh6A?pwd=mxy2.
-
-(2) Code will soon be avaliable.
+BSASD mainly includes: 
+(1) two weakly-supervised datasets: W-SBU and W-ISTD; 
+(2) model codes: label propagation network and shadow detection network; 
+(3) test results on three benchmark datasets, i.e., SBU, ISTD, and UCF.
+They will be released soon.
