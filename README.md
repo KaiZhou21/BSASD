@@ -19,12 +19,12 @@ ISTD: https://pan.baidu.com/s/1TBvTs-Oy1w8qC2FEC1IMuA (tc02)
 
 UCF: https://pan.baidu.com/s/1aHk0znbnB1dLwC2SJX1utQ (tc03)
 
-(4) model codes: 
+(3) model codes: 
 
 reliable label propagation: https://pan.baidu.com/s/19xfRy7TNAQsEWCTBUAtS8g (rlp1)
 
 multi-cue semantic calibration:
 
-(3) test results on three benchmark datasets.
+(4) test results on three benchmark datasets.
 
 They will be released soon......
