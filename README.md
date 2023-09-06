@@ -19,8 +19,12 @@ ISTD: https://pan.baidu.com/s/1TBvTs-Oy1w8qC2FEC1IMuA (tc02)
 
 UCF: https://pan.baidu.com/s/1aHk0znbnB1dLwC2SJX1utQ (tc03)
 
-(3) test results on three benchmark datasets;
+(4) model codes: 
 
-(4) model codes: label propagation network and shadow detection network;
+reliable label propagation: https://pan.baidu.com/s/19xfRy7TNAQsEWCTBUAtS8g (rlp1)
 
-They will be released soon...
+multi-cue semantic calibration:
+
+(3) test results on three benchmark datasets.
+
+They will be released soon......
